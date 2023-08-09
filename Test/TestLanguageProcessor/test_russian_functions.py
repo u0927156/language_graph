@@ -1,4 +1,4 @@
-from LanguageProcessor import russian_functions
+from src.LanguageProcessor import russian_functions
 import pytest
 
 
